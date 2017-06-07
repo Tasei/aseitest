@@ -1,0 +1,22 @@
+{
+  "name": "aseitest",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tasei/aseitest.git"
+  },
+  "author": "asei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tasei/aseitest/issues"
+  },
+  "homepage": "https://github.com/Tasei/aseitest#readme",
+  "devDependencies": {
+    "webpack": "^2.6.1"
+  }
+}
